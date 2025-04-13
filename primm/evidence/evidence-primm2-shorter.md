@@ -1,8 +1,6 @@
-Okay, here are slightly shorter instructions for your 11th and 12th-grade students for their Python class coding exam, maintaining the original language complexity:
-
 **Python Class Creation Exam Instructions**
 
-This exam assesses your ability to define and utilize a basic Python class.
+This exam will test whether you know how to define and use a simple Python class.
 
 **Objective:**
 
