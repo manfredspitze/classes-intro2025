@@ -35,7 +35,8 @@ Your code will be evaluated on:
 
 **Important Notes:**
 
-* Individual work is required.
-* Allowed resources may be consulted, but no communication is permitted.
-* Ensure error-free code execution.
-* Submit your Python code file (`.py`) as instructed.
+* Please do your own work.
+* Use previous projects as a guide, if necessary.
+* Run and debug your finished script.
+* Upload your Python script to a **PUBLIC** GitHub repo named **classes-intro-evidence**.
+* Share the link to your repo with your teacher.
